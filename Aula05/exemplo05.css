@@ -1,0 +1,44 @@
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    font-style: unset;
+    background-color: dodgerblue;
+ 
+    .Tipo {
+        width: 15%;
+        border: 10px;
+        background-color: blueviolet ;
+        text-align:center;
+        display: inline-block;
+ }
+ .Tipo2 {
+         width: 15%;
+         border: 10px;
+         background-color: mediumblue;
+         text-align: center;
+         display:inline-block;
+ 
+ }
+ 
+
+
+
+
+}
+.Tipo {
+       width: 15%;
+       border: 10px;
+       background-color: blueviolet ;
+       text-align:center;
+       display: inline-block;
+}
+.Tipo2 {
+        width: 15%;
+        border: 10px;
+        background-color: mediumblue;
+        text-align: center;
+        display:inline-block;
+
+
+}
+
